@@ -1,1 +1,2 @@
-# numerical-haskell
+# nalanda-haskell
+
